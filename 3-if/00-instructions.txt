@@ -1,0 +1,6 @@
+Afficher les nombres de 1 à 20
+Si n est multiple de 3 afficher FIZZ
+Si n est multiple de 5 afficher BUZZ
+Si n est multiple de 3 et 5 afficher FIZZBUZZ
+
+Sans utiliser de if
